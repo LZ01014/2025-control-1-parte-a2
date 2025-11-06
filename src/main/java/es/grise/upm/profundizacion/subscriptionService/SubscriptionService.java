@@ -10,7 +10,7 @@ public class SubscriptionService {
 	/*
 	 * Constructor
 	 */
-	public SubscriptionService(Delivery delivery) {
+	public SubscriptionService() {
 		this.subscribers = new ArrayList<>();
 	}
 
